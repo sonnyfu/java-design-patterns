@@ -32,6 +32,7 @@ public class AppTest {
   @Test
   public void shouldExecuteAppWithoutException() {
     App.main(null);
+//just a test
   }
 
 }
